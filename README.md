@@ -4,4 +4,4 @@ Projekt bootstrap-szablon jest to projekt, w którym zaimplementowane są już b
 
 Aby pobrać repozytorium, należy użyć polecenia `https://github.com/filipholowko/bootstrap-szablon`. 
 
-Powodzenia! :)
+Powodzenia!

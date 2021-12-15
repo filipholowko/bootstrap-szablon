@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-szablon",
+  "version": "1.0.0",
+  "description": "Projekt bootstrap-szablon jest to projekt, w którym zaimplementowane są już biblioteki bootstrapa oraz jquery i popper.js.",
+  "main": "index.js",
+  "dependencies": {
+    "@popperjs/core": "^2.11.0",
+    "bootstrap": "^5.1.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipholowko/bootstrap-szablon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipholowko/bootstrap-szablon/issues"
+  },
+  "homepage": "https://github.com/filipholowko/bootstrap-szablon#readme"
+}
